@@ -1,0 +1,20 @@
+{
+  "name": "Mecanicadesuelos",
+  "short_name": "Mecanicadesu",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#7C2D12",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "es",
+  "orientation": "portrait-secondary",
+  "scope": "/",
+  "description": "Servicios geotécnicos profesionales en Valparaiso, Chile. Estudios de suelo, ensayos y consultoría técnica.",
+  "id": "/valparaiso-0564"
+}
